@@ -29,8 +29,6 @@
 
 ### 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
 #### 🧑‍💻 Languages
 
 <p align="center">
