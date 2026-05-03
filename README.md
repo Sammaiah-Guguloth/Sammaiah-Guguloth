@@ -79,36 +79,3 @@
 > > A collaborative code editor with WebSocket-based sync, chat, and mesh-architecture WebRTC video calling — perfect for interviews, tutoring, and live team coding.
 
 🔗 [Live Site](https://livestack.netlify.app) • [Frontend](https://github.com/sammaiah-g/LiveStack-Frontend) • [Backend](https://github.com/sammaiah-g/LiveStack-Backend) • [Docs](https://drive.google.com/file/d/1-dXRqzz16I2LfWsFe79bv070YwVBK1o6/view?usp=drive_link)
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sammaiah-Guguloth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammaiah-Guguloth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sammaiah-Guguloth&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sammaiah-Guguloth&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sammaiah-Guguloth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 💬 About Me
-
-- 🧠 I enjoy solving coding challenges and building full-stack web apps
-- 🌱 Currently diving deeper into MERN stack projects
-- 🎯 Always curious to learn and explore
-- 📫 Reach me at: gugulothsammaiah5@gmail.com
-
----
