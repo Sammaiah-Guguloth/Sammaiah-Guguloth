@@ -58,8 +58,8 @@
 #### 💡 Problem Solving
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-400%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-500+%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-450+%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
 ---
